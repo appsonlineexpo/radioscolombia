@@ -50,7 +50,7 @@ function chillHop() {
         },
           {
             name:"Tropicana Cali en vivo",
-            artist: "Bésame FM",
+            artist: "Tropicana Cali",
             cover: "https://img.freepik.com/vector-gratis/banner-radio-musica-vivo_1419-1987.jpg",
             id: uuidv4(),
             color: ["#845648","#FDFBDF"],

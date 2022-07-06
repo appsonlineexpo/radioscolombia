@@ -48,7 +48,15 @@ function chillHop() {
             audio: "https://17493.live.streamtheworld.com/BESAME_MEDELLINAAC_SC?csegid=12000&dist=besame_co-web-live_streaming_play&pname=TDSdk",
             active: false,
         },
-        
+          {
+            name:"Tropicana Cali en vivo",
+            artist: "Bésame FM",
+            cover: "https://img.freepik.com/vector-gratis/banner-radio-musica-vivo_1419-1987.jpg",
+            id: uuidv4(),
+            color: ["#845648","#FDFBDF"],
+            audio: "https://26733.live.streamtheworld.com/TR_CALIAAC_SC?csegid=12000&dist=tropicana_co-web-live_streaming_play&pname=TDSdk",
+            active: false,
+        },
     ];
 }
 
